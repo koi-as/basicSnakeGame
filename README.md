@@ -11,4 +11,6 @@ I added a simple highscore feature that saves your highest score to `localStorag
 
 The other feature I wanted to add was a reset function that allowed me to play again without erasing the localStorage highscore. To do this, I created a button with a function that reset all related variable back to default setting and re-initiated the gameplay loop. 
 
-This took a while because I kept finding bugs such as speed persisted between games, snake length wouldn't reset, among other things. Now it should be working perfectly fine, my basic little snake game :)
+This took a while because I kept finding bugs such as speed persisted between games, snake length wouldn't reset, among other things. Now it should be working perfectly fine, my basic little snake game which you can play here: https://koi-as.github.io/basicSnakeGame/
+
+Have fun :)
